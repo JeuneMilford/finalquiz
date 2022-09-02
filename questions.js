@@ -3,12 +3,12 @@ let questions = [
     {
     numb: 1,
     question: "When was Blockchain created?",
-    answer: "3",
+    answer: "30 August 2011",
     options: [
-      "5",
-      "6",
-      "2",
-      "3"
+      "22 August 2012",
+      "30 August 2011",
+      "2 August 2010",
+      "25 August 2012"
     ]
   },
     {
@@ -17,7 +17,7 @@ let questions = [
     answer: "Decentralization",
     options: [
       "Authorization",
-      "Effiecncy",
+      "Efficiency",
       "Transparency",
       "Decentralization"
     ]
@@ -25,7 +25,7 @@ let questions = [
     {
     numb: 3,
     question: " A user can alter data on a blockchain?",
-    answer: "False",
+    answer: "True",
     options: [
       "True",
       "False",
